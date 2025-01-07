@@ -1,0 +1,7 @@
+[user]
+	name = vaughnworks
+	email = vaughn_jackson@hotmail.com
+[core]
+	editor = nano
+[init]
+	defaultBranch = main
