@@ -5,3 +5,13 @@
 	editor = nano
 [init]
 	defaultBranch = main
+[alias]
+	s = status
+	a = add
+	c = commit
+	p = push
+	l = pull
+	d = diff
+	co = checkout
+	b = branch
+	log = log --oneline --graph --decorate
